@@ -18,3 +18,6 @@
 
 > Important:
 > The only valid measurement of code quality: WTFs/min.
+<br>
+<br>
+<img width="325" alt="measure" src="https://user-images.githubusercontent.com/59899627/156349560-82e10e93-a5f1-4ecb-b771-2f07d8bc6a77.PNG">

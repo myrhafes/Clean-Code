@@ -1,4 +1,4 @@
-# Clean Code By Robert C.Martin Series
+# Clean Code By Robert C.Martin
 Hi. This repository is dedicated for the summaries of the chapters of the clean code book.
 
 ## Structure 

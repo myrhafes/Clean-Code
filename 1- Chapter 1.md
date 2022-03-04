@@ -1,6 +1,6 @@
 # **Chapter 1: Clean Code**
 
-## There wWll Be Code:
+## There Will Be Code:
 - The world go fast, but always we will have code!
 - The folks who think that code will one day disappear are like mathematicians who hope one day to discover a mathematicians who hope one day discover a mathematics that does not have to be formal.
 

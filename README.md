@@ -5,12 +5,13 @@ Hi. This repository is dedicated for the summaries of the chapters of the clean 
 
 ```bash
 .
-├── 0 - Introduction          # intro to the book
+├── 0 - Introduction          # Intro to the book
 ├── 1 - Chapter 1             # Chapter 1: Clean Code
-├── 1 - Chapter 2             # Chapter 2: Meaningful Names
-├── 1 - Chapter 3             # Chapter 3: Functions
-├── 1 - Chapter 4             # Chapter 4: Comments
-├── 1 - Chapter 5             # Chapter 5: Formatting
+├── 2 - Chapter 2             # Chapter 2: Meaningful Names
+├── 3 - Chapter 3             # Chapter 3: Functions
+├── 4 - Chapter 4             # Chapter 4: Comments
+├── 5 - Chapter 5             # Chapter 5: Formatting
+├── 6 - Chapter 6             # Chapter 6: Objects And Data Structures
 └── README.md                 # Repository description
 ```
 

@@ -12,6 +12,7 @@ Hi. This repository is dedicated for the summaries of the chapters of the clean 
 ├── 4 - Chapter 4             # Chapter 4: Comments
 ├── 5 - Chapter 5             # Chapter 5: Formatting
 ├── 6 - Chapter 6             # Chapter 6: Objects And Data Structures
+├── 7 - Chapter 7             # Chapter 7: Error Handling
 └── README.md                 # Repository description
 ```
 

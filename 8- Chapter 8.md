@@ -1,4 +1,4 @@
-# **Chapter 7: Error Handling**
+# **Chapter 8: Boundaries**
 
 The goal of this chapter is to keep the bondaties of our code clean, when dealing with code that are out of our control.
 

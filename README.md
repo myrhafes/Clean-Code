@@ -13,6 +13,9 @@ Hi. This repository is dedicated for the summaries of the chapters of the clean 
 ├── 5 - Chapter 5             # Chapter 5: Formatting
 ├── 6 - Chapter 6             # Chapter 6: Objects And Data Structures
 ├── 7 - Chapter 7             # Chapter 7: Error Handling
+├── 8 - Chapter 8             # Chapter 8: Boundaries
+├── 9 - Chapter 9             # Chapter 9: Unit Tests
+├── 10 - Chapter 10           # Chapter 10: Classes
 └── README.md                 # Repository description
 ```
 

@@ -1,4 +1,4 @@
-# **Chapter 5: Objects And Data Structures**
+# **Chapter 6: Objects And Data Structures**
 
 ## Data Abstraction:
 Abstraction means hiding implementation. Hiding implemntation isn't means making the variables privates and using getters and setters to access these variables. Rather it means providing abstract interfaces (abstract ways) that allow its users to manipulate the data, whithout having to know its implementation.

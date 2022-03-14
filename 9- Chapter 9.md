@@ -15,6 +15,45 @@ By now everyone knows that TDD asks us to write unit tests first, before we writ
 
 ## One Assert Per Test:
 Each test should assert one aspect of behavior.
+```java
+    @Test		
+    public void testAssert(){					
+                
+        //Variable declaration		
+        String string1 = "Junit";					
+        String string2 = "Junit";					
+        int nbr1 = 3;					
+        int nbr2 = 5;									
+
+        //Assert statements		
+        assertEquals(string1,string2);					
+        assertSame(nbr1, nbr2);										
+    }		
+```
+**Better:**
+```java
+    @Test		
+    public void testAssertString(){					
+                
+        //Variable declaration		
+        String string1 = "Junit";					
+        String string2 = "Junit";	
+
+        //Assert statements		
+        assertEquals(string1,string2);									
+    }		
+
+     @Test		
+    public void testAssertNumber(){					
+                
+        //Variable declaration		
+        int nbr1 = 3;					
+        int nbr2 = 5;
+
+        //Assert statements		
+        assertSame(nbr1, nbr2);									
+    }
+```
 
 ## Single Concept Per Test:
 Each test focuses on a single concept.

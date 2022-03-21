@@ -23,7 +23,7 @@ One way to separate construction from use is simply to move all aspects of const
 main, or modules called by main, and to design the rest of the system assuming that all
 objects have been constructed and wired up appropriately.
 <br>
-<img width="239" alt="Separating Main" src="https://user-images.githubusercontent.com/59899627/159249180-bb8205f8-a51a-4d9b-8911-91490e152e7e.PNG">
+<img  width="831" alt="Separating Main"  src="https://user-images.githubusercontent.com/59899627/159249180-bb8205f8-a51a-4d9b-8911-91490e152e7e.PNG">
 <br>
 
 ### Dependece Injection:
@@ -42,7 +42,7 @@ objects have been constructed and wired up appropriately.
 
 **Exemple:**
 <br>
-<img width="304" alt="java proxy" src="https://user-images.githubusercontent.com/59899627/159249227-eaf2b7ec-971a-46a8-becd-131617e1c53f.PNG">
+<img  width="831" alt="java proxy" src="https://user-images.githubusercontent.com/59899627/159249227-eaf2b7ec-971a-46a8-becd-131617e1c53f.PNG">
 <br>
 - Step 1: Create an interface, Image.java:
 ```java

@@ -1,4 +1,4 @@
-# **Chapter 9: Unit Tests**
+# **Chapter 11: Systems**
 
 ## Introduction:
 Program is like city. Could you manage all details yourself ? Probably not.
@@ -22,7 +22,9 @@ Although software teams are often organized like that too.
 One way to separate construction from use is simply to move all aspects of construction to
 main, or modules called by main, and to design the rest of the system assuming that all
 objects have been constructed and wired up appropriately.
-[FIgure 11-1]
+<br>
+<img  width="831" alt="Separating Main"  src="https://user-images.githubusercontent.com/59899627/159249180-bb8205f8-a51a-4d9b-8911-91490e152e7e.PNG">
+<br>
 
 ### Dependece Injection:
 - A powerful mechanism for separating construction from use.
@@ -39,7 +41,9 @@ objects have been constructed and wired up appropriately.
 > Proxy is a structural design pattern that provides an object that acts as a substitute for a real service object used by a client. A proxy receives client requests, does some work (access control, caching, etc.) and then passes the request to a service object.
 
 **Exemple:**
-[figure tutorialspoint]
+<br>
+<img  width="831" alt="java proxy" src="https://user-images.githubusercontent.com/59899627/159249227-eaf2b7ec-971a-46a8-becd-131617e1c53f.PNG">
+<br>
 - Step 1: Create an interface, Image.java:
 ```java
     public interface Image {
